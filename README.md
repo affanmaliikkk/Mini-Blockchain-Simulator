@@ -506,9 +506,9 @@ Decentralized node simulation
 
 
 
-Affan Ahmad Malik
-Abdul Rehman
-Muhammad Hassam
+Affan Ahmad Malik,
+ Abdul Rehman,
+ Muhammad Hassam.
 
 Cyber Security Undergraduate
 
@@ -521,6 +521,7 @@ Mini Blockchain Simulator (C++)
 ###### **NOTE:**
 
 &nbsp;    This project is for educational purposes only and does not represent a real cryptocurrency system.
+
 
 
 
