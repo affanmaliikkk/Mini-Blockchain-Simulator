@@ -36,7 +36,7 @@ Detect blockchain tampering
 
 
 
-Practice OOP concepts (inheritance, polymorphism)
+Practice OOP concepts (inheritance, polymorphism, abstraction, encapsulation, file handling etc.)
 
 
 
@@ -519,4 +519,5 @@ Mini Blockchain Simulator (C++)
 ###### **NOTE:**
 
 &nbsp;    This project is for educational purposes only and does not represent a real cryptocurrency system.
+
 
